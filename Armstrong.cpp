@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 int main()
 {
@@ -17,6 +16,5 @@ int main()
         cout<<"Number is an Armstrong Number"<<endl;
     else
         cout<<"Number is not an Armstrong Number"<<endl;
-    getch();
     return 0;
 }
