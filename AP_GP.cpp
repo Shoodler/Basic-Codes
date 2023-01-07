@@ -20,7 +20,6 @@ int main()
         cin>>n;
         tn=a+((n-1)*d);
         cout<<"The Term ="<<tn<<endl;
-        getch();
         return 0;
 
     }
@@ -45,7 +44,6 @@ int main()
         }
         tn=c*a;
         cout<<"The Term ="<<tn<<endl;
-    getch();
     return 0;
     }
     else if (i==3)
@@ -59,8 +57,6 @@ int main()
         cin>>n;
         sn=(n/2)*((2*a)+((n-1)*d));
         cout<<"Sum = "<<sn<<endl;
-
-        getch();
         return 0;
     }
     else if (i==4)
