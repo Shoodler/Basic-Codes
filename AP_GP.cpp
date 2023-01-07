@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 int main()
 {
@@ -89,8 +88,6 @@ int main()
             sn=a*((1-g)/(1-r));
             cout<<"Sum ="<<sn;
         }
-
-        getch();
         return 0;
     }
 }
