@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 int main()
 {
@@ -18,6 +17,5 @@ int main()
         cout<<"Number is not a Palindrome"<<endl;
     else
         cout<<"Number is a Palindrome"<<endl;
-    getch();
     return 0;
 }
