@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 #include <cmath>
 using namespace std;
 int main()
@@ -38,6 +37,5 @@ int main()
         default: cout<<"Invalid Input"<<endl;
 
     }
-    getch();
     return 0;
 }
