@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 int main()
 {
@@ -17,6 +16,5 @@ int main()
         l++;
     }
     cout<<"Factorial ="<<c<<endl;
-    getch();
     return 0;
 }
