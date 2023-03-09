@@ -1,4 +1,2 @@
-# QI
-quadratic inequalities
-A code to calculate quadratic inequalities. 
-part of the CalX series.
+# Basic Codes
+A set of all the basic calculation codes soon to be compiled into CalX
