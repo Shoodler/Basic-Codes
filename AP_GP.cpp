@@ -20,6 +20,7 @@ int main()
         cin>>n;
         tn=a+((n-1)*d);
         cout<<"The Term ="<<tn<<endl;
+        cout<<"Program Execution Complete"<<endl;
         return 0;
 
     }
@@ -44,6 +45,7 @@ int main()
         }
         tn=c*a;
         cout<<"The Term ="<<tn<<endl;
+        cout<<"Program Exection Complete"<<endl;
     return 0;
     }
     else if (i==3)
@@ -57,6 +59,7 @@ int main()
         cin>>n;
         sn=(n/2)*((2*a)+((n-1)*d));
         cout<<"Sum = "<<sn<<endl;
+        cout<<"Program Execution Complete"<<endl;
         return 0;
     }
     else if (i==4)
@@ -84,6 +87,7 @@ int main()
             sn=a*((1-g)/(1-r));
             cout<<"Sum ="<<sn;
         }
+        cout<<endl;
         return 0;
         
     }
