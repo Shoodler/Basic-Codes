@@ -16,5 +16,6 @@ int main()
         cout<<"Number is an Armstrong Number"<<endl;
     else
         cout<<"Number is not an Armstrong Number"<<endl;
+    cout<<"Program Execution Complete"<<endl;
     return 0;
 }
