@@ -49,6 +49,7 @@ int main()
         break;
         default:cout<<"Invalid Input, Program terminated"<<endl;
     }
+    cout<<"Program Execution Complete"<<endl;
 
     return 0;
 }
