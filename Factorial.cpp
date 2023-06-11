@@ -14,6 +14,6 @@ int main()
         l++;
     }
     cout<<"Answer = "<<f<<endl;
-    cou<<"Program Execution Complete"<<endl;
+    cout<<"Program Execution Complete"<<endl;
     return 0;
 }
